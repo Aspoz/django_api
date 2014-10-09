@@ -19,6 +19,7 @@ local/
 !.gitignore
 !.travis.yml
 
-*.sqlite3
+/*.sqlite3
 
-media/
+/media/
+.DS_Store
